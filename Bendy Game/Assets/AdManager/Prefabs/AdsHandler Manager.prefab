@@ -51,52 +51,52 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 08e79f2492a1667458f9ce4442a6b6b4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  productName: 'The Scary Bendy Neighbor Simulator - Bendy Game 3D       '
-  productId: com.crossmind.scary.bendy.neighbor.simulator.bendygame
+  productName: Scary Bendy Neighbours From Hell Hunted House 2019
+  productId: com.thunderbolt.scary.bendy.neighbours.from.hell.hunted.house
   productVersion: v1.0.0
   admobBannerIDAndroid: null
-  admobInterIDAndroid: ca-app-pub-6403303487097504/5955280287
-  admobRewardedAndroid: ca-app-pub-6403303487097504/1270354842
-  unityAdIDAndroid: 2680695
+  admobInterIDAndroid: ca-app-pub-5987598934600409/7923842150
+  admobRewardedAndroid: null
+  unityAdIDAndroid: 2786093
   facebookInterstitialAdAndroid: 421547064915544_421547238248860
   facebookRewardedAdAndroid: 421547064915544_421547778248806
   admobBannerIDIOS: null
   admobInterIDIOS: ca-app-pub-1843928715135601/2109903614
   admobRewardedIOS: ca-app-pub-1843928715135601/2848270211
-  unityAdIDIOS: 2680696
+  unityAdIDIOS: 2786094
   facebookInterstitialAdIOS: 421547064915544_421549048248679
   facebookRewardedAdIOS: 421547064915544_421549688248615
   moreAppsLink: 
   rateAppsLink: 
-  privacyPolicyLink: https://sites.google.com/view/crossmindstudiosprivacypolicy
+  privacyPolicyLink: https://sites.google.com/view/thunderboltstudioprivacypolicy
   mainMenuInterstitial:
   - firstPriority: 0
-    secondPriority: 2
-    thirdPriority: 1
+    secondPriority: 1
+    thirdPriority: 2
   - firstPriority: 0
-    secondPriority: 2
-    thirdPriority: 1
+    secondPriority: 1
+    thirdPriority: 2
   interstitialShow_Success:
   - firstPriority: 0
-    secondPriority: 2
-    thirdPriority: 1
+    secondPriority: 1
+    thirdPriority: 2
   - firstPriority: 0
-    secondPriority: 2
-    thirdPriority: 1
+    secondPriority: 1
+    thirdPriority: 2
   interstitialShow_Fail:
   - firstPriority: 0
-    secondPriority: 2
-    thirdPriority: 1
+    secondPriority: 1
+    thirdPriority: 2
   - firstPriority: 0
     secondPriority: 2
-    thirdPriority: 1
+    thirdPriority: 2
   gpPausedInterstitial:
   - firstPriority: 0
-    secondPriority: 2
-    thirdPriority: 1
+    secondPriority: 1
+    thirdPriority: 2
   - firstPriority: 0
-    secondPriority: 2
-    thirdPriority: 1
+    secondPriority: 1
+    thirdPriority: 2
   rewardedPriority:
     firstPriority: 0
     secondPriority: 2

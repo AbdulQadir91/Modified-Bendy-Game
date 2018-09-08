@@ -139,11 +139,13 @@ public class AdsManagerHandler : MonoBehaviour {
 	{
 		RequestInterstitial ();
 		Advertisement.Initialize(unityAd_ID, enableTestingMode);
-		rewardBasedVideo = RewardBasedVideoAd.Instance;
-		RequestRewardedVideo();
-		rewardedVideoCallBacksRegister ();
-		LoadFacebookRewardedVideo ();
-		LoadFacebookInterstitial ();
+		#if !UNITY_EDITOR
+			rewardBasedVideo = RewardBasedVideoAd.Instance;
+			RequestRewardedVideo();
+			rewardedVideoCallBacksRegister ();
+			LoadFacebookRewardedVideo ();
+			LoadFacebookInterstitial ();
+		#endif
 	}
 
 

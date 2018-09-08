@@ -93,6 +93,16 @@
      <Compile Include="Assets\AdManager\Essentials\GoogleMobileAds\Platforms\iOS\Utils.cs" />
      <Compile Include="Assets\AdManager\Scripts\AdsManagerHandler.cs" />
      <Compile Include="Assets\AdManager\Scripts\InAppManager.cs" />
+     <Compile Include="Assets\All Assets\JMO Assets\Cartoon FX\Demo\Assets\CFX_AutoStopLoopedEffect.cs" />
+     <Compile Include="Assets\All Assets\JMO Assets\Cartoon FX\Demo\Assets\CFX_Demo_New.cs" />
+     <Compile Include="Assets\All Assets\JMO Assets\Cartoon FX\Demo\Assets\CFX_Demo_RandomDir.cs" />
+     <Compile Include="Assets\All Assets\JMO Assets\Cartoon FX\Demo\Assets\CFX_Demo_RandomDirectionTranslate.cs" />
+     <Compile Include="Assets\All Assets\JMO Assets\Cartoon FX\Demo\Assets\CFX_Demo_RotateCamera.cs" />
+     <Compile Include="Assets\All Assets\JMO Assets\Cartoon FX\Demo\Assets\CFX_Demo_Translate.cs" />
+     <Compile Include="Assets\All Assets\JMO Assets\Cartoon FX\Scripts\CFX_AutoDestructShuriken.cs" />
+     <Compile Include="Assets\All Assets\JMO Assets\Cartoon FX\Scripts\CFX_AutoRotate.cs" />
+     <Compile Include="Assets\All Assets\JMO Assets\Cartoon FX\Scripts\CFX_LightFlicker.cs" />
+     <Compile Include="Assets\All Assets\JMO Assets\Cartoon FX\Scripts\CFX_LightIntensityFade.cs" />
      <Compile Include="Assets\AudienceNetwork\Library\AdChoices.cs" />
      <Compile Include="Assets\AudienceNetwork\Library\AdHandler.cs" />
      <Compile Include="Assets\AudienceNetwork\Library\AdSettings.cs" />
@@ -248,16 +258,19 @@
      <None Include="Assets\RFPSP\Image Effects\Effects\Shaders\_BloomAndFlares\BlendOneOne.shader" />
      <None Include="Assets\RFPSP\Image Effects\Effects\Shaders\NoiseEffectShaderRGB.shader" />
      <None Include="Assets\RFPSP\Demo\Other\Terrain Assets\Trees Ambient-Occlusion\Billboard.shader" />
+     <None Include="Assets\All Assets\JMO Assets\Cartoon FX\Shaders\CFX3 Multiply Color.shader" />
      <None Include="Assets\RFPSP\Shaders\Projector Multiply.shader" />
      <None Include="Assets\AudienceNetwork\Plugins\Android\AndroidManifest.xml" />
      <None Include="Assets\RFPSP\Image Effects\Effects\Shaders\ShowAlphaChannel.shader" />
      <None Include="Assets\SWS\README.txt" />
      <None Include="Assets\SWS\Extensions\DOTween\DOTween43.xml" />
+     <None Include="Assets\All Assets\JMO Assets\Cartoon FX\Shaders\CFXM_MobileParticleAdd_Alpha8.shader" />
      <None Include="Assets\RFPSP\Image Effects\Effects\Shaders\SunShaftsComposite.shader" />
      <None Include="Assets\RFPSP\Image Effects\Effects\Shaders\ColorCorrectionCurves.shader" />
      <None Include="Assets\RFPSP\Image Effects\Effects\Shaders\ScreenSpaceAmbientObscurance.shader" />
      <None Include="Assets\RFPSP\Image Effects\Effects\Shaders\_Antialiasing\NFAA.shader" />
      <None Include="Assets\All Assets\3D Models\SimpleApocalypseInteriors\_Materials\UnlitVertexColour_Alpha.shader" />
+     <None Include="Assets\All Assets\JMO Assets\Cartoon FX\CartoonFX Free.txt" />
      <None Include="Assets\RFPSP\Image Effects\Effects\Shaders\_BloomAndFlares\VignetteShader.shader" />
      <None Include="Assets\RFPSP\Shaders\DecalShader.shader" />
      <None Include="Assets\RFPSP\Image Effects\Effects\Shaders\_BloomAndFlares\MobileBloom.shader" />
@@ -271,6 +284,7 @@
      <None Include="Assets\RFPSP\Image Effects\Effects\Shaders\frag_ao.cginc" />
      <None Include="Assets\BuildReport\BuildReportToolOptions.xml" />
      <None Include="Assets\SWS\Extensions\DOTween\readme.txt" />
+     <None Include="Assets\All Assets\JMO Assets\Cartoon FX Easy Editor\CartoonFX Easy Editor Readme.txt" />
      <None Include="Assets\RFPSP\Image Effects\Effects\Shaders\_BloomAndFlares\MobileBlur.shader" />
      <None Include="Assets\RFPSP\Image Effects\Effects\Shaders\SSAOShader.shader" />
      <None Include="Assets\RFPSP\Image Effects\Effects\Shaders\ConvertDepth.shader" />
@@ -279,6 +293,7 @@
      <None Include="Assets\UnityAds\link.xml" />
      <None Include="Assets\RFPSP\Image Effects\Effects\Shaders\CreaseApply.shader" />
      <None Include="Assets\RFPSP\Demo\Other\Water\Shaders\FXWaterBasicWithAlpha.shader" />
+     <None Include="Assets\All Assets\JMO Assets\!JMO Assets Readme.txt" />
      <None Include="Assets\RFPSP\Image Effects\Effects\Shaders\ChromaticAberrationShader.shader" />
      <None Include="Assets\RFPSP\Image Effects\Effects\Shaders\GlobalFog.shader" />
      <None Include="Assets\AudienceNetwork\TestResult.xml" />
@@ -319,7 +334,7 @@
      <None Include="Assets\RFPSP\Image Effects\Effects\Shaders\_BloomAndFlares\BlurAndFlares.shader" />
      <None Include="Assets\RFPSP\Image Effects\Effects\Shaders\_BloomAndFlares\BlendForBloom.shader" />
  <Reference Include="Facebook.Unity.Settings">
- <HintPath>D:/Work/Unity Data/Unity Games/Horror Games/Bendy/Bendy Game/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
+ <HintPath>D:/Work/Unity Data/Git-Repo/Modified-Bendy-Game/Bendy Game/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity2017.4.1/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
@@ -349,49 +364,49 @@
  <HintPath>C:/Program Files/Unity2017.4.1/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Advertisements.Editor">
- <HintPath>D:/Work/Unity Data/Unity Games/Horror Games/Bendy/Bendy Game/Assets/AdManager/Essentials/UnityAds/UnityEngine.Advertisements.Editor.dll</HintPath>
+ <HintPath>D:/Work/Unity Data/Git-Repo/Modified-Bendy-Game/Bendy Game/Assets/AdManager/Essentials/UnityAds/UnityEngine.Advertisements.Editor.dll</HintPath>
  </Reference>
  <Reference Include="ChannelPurchase">
- <HintPath>D:/Work/Unity Data/Unity Games/Horror Games/Bendy/Bendy Game/Assets/Plugins/UnityChannel/ChannelPurchase.dll</HintPath>
+ <HintPath>D:/Work/Unity Data/Git-Repo/Modified-Bendy-Game/Bendy Game/Assets/Plugins/UnityChannel/ChannelPurchase.dll</HintPath>
  </Reference>
  <Reference Include="UnityStore">
- <HintPath>D:/Work/Unity Data/Unity Games/Horror Games/Bendy/Bendy Game/Assets/Plugins/UnityChannel/UnityStore.dll</HintPath>
+ <HintPath>D:/Work/Unity Data/Git-Repo/Modified-Bendy-Game/Bendy Game/Assets/Plugins/UnityChannel/UnityStore.dll</HintPath>
  </Reference>
  <Reference Include="Editor">
- <HintPath>D:/Work/Unity Data/Unity Games/Horror Games/Bendy/Bendy Game/Assets/Plugins/UnityPurchasing/Bin/Editor.dll</HintPath>
+ <HintPath>D:/Work/Unity Data/Git-Repo/Modified-Bendy-Game/Bendy Game/Assets/Plugins/UnityPurchasing/Bin/Editor.dll</HintPath>
  </Reference>
  <Reference Include="Purchasing.Common">
- <HintPath>D:/Work/Unity Data/Unity Games/Horror Games/Bendy/Bendy Game/Assets/Plugins/UnityPurchasing/Bin/Purchasing.Common.dll</HintPath>
+ <HintPath>D:/Work/Unity Data/Git-Repo/Modified-Bendy-Game/Bendy Game/Assets/Plugins/UnityPurchasing/Bin/Purchasing.Common.dll</HintPath>
  </Reference>
  <Reference Include="Stores">
- <HintPath>D:/Work/Unity Data/Unity Games/Horror Games/Bendy/Bendy Game/Assets/Plugins/UnityPurchasing/Bin/Stores.dll</HintPath>
+ <HintPath>D:/Work/Unity Data/Git-Repo/Modified-Bendy-Game/Bendy Game/Assets/Plugins/UnityPurchasing/Bin/Stores.dll</HintPath>
  </Reference>
  <Reference Include="Apple">
- <HintPath>D:/Work/Unity Data/Unity Games/Horror Games/Bendy/Bendy Game/Assets/Plugins/UnityPurchasing/Bin/Apple/Apple.dll</HintPath>
+ <HintPath>D:/Work/Unity Data/Git-Repo/Modified-Bendy-Game/Bendy Game/Assets/Plugins/UnityPurchasing/Bin/Apple/Apple.dll</HintPath>
  </Reference>
  <Reference Include="FacebookStore">
- <HintPath>D:/Work/Unity Data/Unity Games/Horror Games/Bendy/Bendy Game/Assets/Plugins/UnityPurchasing/Bin/Facebook/FacebookStore.dll</HintPath>
+ <HintPath>D:/Work/Unity Data/Git-Repo/Modified-Bendy-Game/Bendy Game/Assets/Plugins/UnityPurchasing/Bin/Facebook/FacebookStore.dll</HintPath>
  </Reference>
  <Reference Include="Security">
- <HintPath>D:/Work/Unity Data/Unity Games/Horror Games/Bendy/Bendy Game/Assets/Plugins/UnityPurchasing/Bin/Security/live/Security.dll</HintPath>
+ <HintPath>D:/Work/Unity Data/Git-Repo/Modified-Bendy-Game/Bendy Game/Assets/Plugins/UnityPurchasing/Bin/Security/live/Security.dll</HintPath>
  </Reference>
  <Reference Include="Tizen">
- <HintPath>D:/Work/Unity Data/Unity Games/Horror Games/Bendy/Bendy Game/Assets/Plugins/UnityPurchasing/Bin/Tizen/Tizen.dll</HintPath>
+ <HintPath>D:/Work/Unity Data/Git-Repo/Modified-Bendy-Game/Bendy Game/Assets/Plugins/UnityPurchasing/Bin/Tizen/Tizen.dll</HintPath>
  </Reference>
  <Reference Include="winrt">
- <HintPath>D:/Work/Unity Data/Unity Games/Horror Games/Bendy/Bendy Game/Assets/Plugins/UnityPurchasing/winrt/winrt.dll</HintPath>
+ <HintPath>D:/Work/Unity Data/Git-Repo/Modified-Bendy-Game/Bendy Game/Assets/Plugins/UnityPurchasing/winrt/winrt.dll</HintPath>
  </Reference>
  <Reference Include="DOTween">
- <HintPath>D:/Work/Unity Data/Unity Games/Horror Games/Bendy/Bendy Game/Assets/SWS/Extensions/DOTween/DOTween.dll</HintPath>
+ <HintPath>D:/Work/Unity Data/Git-Repo/Modified-Bendy-Game/Bendy Game/Assets/SWS/Extensions/DOTween/DOTween.dll</HintPath>
  </Reference>
  <Reference Include="DOTween43">
- <HintPath>D:/Work/Unity Data/Unity Games/Horror Games/Bendy/Bendy Game/Assets/SWS/Extensions/DOTween/DOTween43.dll</HintPath>
+ <HintPath>D:/Work/Unity Data/Git-Repo/Modified-Bendy-Game/Bendy Game/Assets/SWS/Extensions/DOTween/DOTween43.dll</HintPath>
  </Reference>
  <Reference Include="DOTween46">
- <HintPath>D:/Work/Unity Data/Unity Games/Horror Games/Bendy/Bendy Game/Assets/SWS/Extensions/DOTween/DOTween46.dll</HintPath>
+ <HintPath>D:/Work/Unity Data/Git-Repo/Modified-Bendy-Game/Bendy Game/Assets/SWS/Extensions/DOTween/DOTween46.dll</HintPath>
  </Reference>
  <Reference Include="DOTween50">
- <HintPath>D:/Work/Unity Data/Unity Games/Horror Games/Bendy/Bendy Game/Assets/SWS/Extensions/DOTween/DOTween50.dll</HintPath>
+ <HintPath>D:/Work/Unity Data/Git-Repo/Modified-Bendy-Game/Bendy Game/Assets/SWS/Extensions/DOTween/DOTween50.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Analytics">
  <HintPath>C:/ProgramData/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.13/UnityEngine.Analytics.dll</HintPath>

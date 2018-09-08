@@ -51,6 +51,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\All Assets\JMO Assets\Cartoon FX Easy Editor\Editor\CFXEasyEditor.cs" />
      <Compile Include="Assets\AudienceNetwork\Editor\Android\ManifestMod.cs" />
      <Compile Include="Assets\AudienceNetwork\Editor\AudienceNetworkBuild.cs" />
      <Compile Include="Assets\AudienceNetwork\Editor\AudienceNetworkConsoleEndpoint.cs" />
@@ -117,7 +118,7 @@
      <None Include="Assets\AdManager\Essentials\PlayServicesResolver\Editor\play-services-resolver_v1.2.75.0.txt" />
      <None Include="Assets\AudienceNetwork\Editor\Android\DefaultAndroidManifest.xml" />
  <Reference Include="Facebook.Unity.Settings">
- <HintPath>D:/Work/Unity Data/Unity Games/Horror Games/Bendy/Bendy Game/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
+ <HintPath>D:/Work/Unity Data/Git-Repo/Modified-Bendy-Game/Bendy Game/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity2017.4.1/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
@@ -186,70 +187,76 @@
  <HintPath>C:/Program Files/Unity2017.4.1/Editor/Data/PlaybackEngines/MetroSupport/UnityEditor.WSA.Extensions.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.WindowsStandalone.Extensions">
- <HintPath>C:/Program Files/Unity2017.4.1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
+ <HintPath>C:/Program Files/Unity2017.4.1/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Facebook.Extensions">
  <HintPath>C:/Program Files/Unity2017.4.1/Editor/Data/PlaybackEngines/Facebook/UnityEditor.Facebook.Extensions.dll</HintPath>
  </Reference>
  <Reference Include="Google.IOSResolver_v1.2.75.0">
- <HintPath>D:/Work/Unity Data/Unity Games/Horror Games/Bendy/Bendy Game/Assets/AdManager/Essentials/PlayServicesResolver/Editor/Google.IOSResolver_v1.2.75.0.dll</HintPath>
+ <HintPath>D:/Work/Unity Data/Git-Repo/Modified-Bendy-Game/Bendy Game/Assets/AdManager/Essentials/PlayServicesResolver/Editor/Google.IOSResolver_v1.2.75.0.dll</HintPath>
  </Reference>
  <Reference Include="Google.JarResolver_v1.2.75.0">
- <HintPath>D:/Work/Unity Data/Unity Games/Horror Games/Bendy/Bendy Game/Assets/AdManager/Essentials/PlayServicesResolver/Editor/Google.JarResolver_v1.2.75.0.dll</HintPath>
+ <HintPath>D:/Work/Unity Data/Git-Repo/Modified-Bendy-Game/Bendy Game/Assets/AdManager/Essentials/PlayServicesResolver/Editor/Google.JarResolver_v1.2.75.0.dll</HintPath>
  </Reference>
  <Reference Include="Google.VersionHandler">
- <HintPath>D:/Work/Unity Data/Unity Games/Horror Games/Bendy/Bendy Game/Assets/AdManager/Essentials/PlayServicesResolver/Editor/Google.VersionHandler.dll</HintPath>
+ <HintPath>D:/Work/Unity Data/Git-Repo/Modified-Bendy-Game/Bendy Game/Assets/AdManager/Essentials/PlayServicesResolver/Editor/Google.VersionHandler.dll</HintPath>
  </Reference>
  <Reference Include="Google.VersionHandlerImpl_v1.2.75.0">
- <HintPath>D:/Work/Unity Data/Unity Games/Horror Games/Bendy/Bendy Game/Assets/AdManager/Essentials/PlayServicesResolver/Editor/Google.VersionHandlerImpl_v1.2.75.0.dll</HintPath>
+ <HintPath>D:/Work/Unity Data/Git-Repo/Modified-Bendy-Game/Bendy Game/Assets/AdManager/Essentials/PlayServicesResolver/Editor/Google.VersionHandlerImpl_v1.2.75.0.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Advertisements.Editor">
- <HintPath>D:/Work/Unity Data/Unity Games/Horror Games/Bendy/Bendy Game/Assets/AdManager/Essentials/UnityAds/UnityEngine.Advertisements.Editor.dll</HintPath>
+ <HintPath>D:/Work/Unity Data/Git-Repo/Modified-Bendy-Game/Bendy Game/Assets/AdManager/Essentials/UnityAds/UnityEngine.Advertisements.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="JMOAssets">
+ <HintPath>D:/Work/Unity Data/Git-Repo/Modified-Bendy-Game/Bendy Game/Assets/All Assets/JMO Assets/Editor/JMOAssets.dll</HintPath>
+ </Reference>
+ <Reference Include="JMOAssets_CartoonFXFreeWelcome">
+ <HintPath>D:/Work/Unity Data/Git-Repo/Modified-Bendy-Game/Bendy Game/Assets/All Assets/JMO Assets/Editor/JMOAssets_CartoonFXFreeWelcome.dll</HintPath>
  </Reference>
  <Reference Include="ChannelPurchase">
- <HintPath>D:/Work/Unity Data/Unity Games/Horror Games/Bendy/Bendy Game/Assets/Plugins/UnityChannel/ChannelPurchase.dll</HintPath>
+ <HintPath>D:/Work/Unity Data/Git-Repo/Modified-Bendy-Game/Bendy Game/Assets/Plugins/UnityChannel/ChannelPurchase.dll</HintPath>
  </Reference>
  <Reference Include="UnityStore">
- <HintPath>D:/Work/Unity Data/Unity Games/Horror Games/Bendy/Bendy Game/Assets/Plugins/UnityChannel/UnityStore.dll</HintPath>
+ <HintPath>D:/Work/Unity Data/Git-Repo/Modified-Bendy-Game/Bendy Game/Assets/Plugins/UnityChannel/UnityStore.dll</HintPath>
  </Reference>
  <Reference Include="Editor">
- <HintPath>D:/Work/Unity Data/Unity Games/Horror Games/Bendy/Bendy Game/Assets/Plugins/UnityPurchasing/Bin/Editor.dll</HintPath>
+ <HintPath>D:/Work/Unity Data/Git-Repo/Modified-Bendy-Game/Bendy Game/Assets/Plugins/UnityPurchasing/Bin/Editor.dll</HintPath>
  </Reference>
  <Reference Include="Purchasing.Common">
- <HintPath>D:/Work/Unity Data/Unity Games/Horror Games/Bendy/Bendy Game/Assets/Plugins/UnityPurchasing/Bin/Purchasing.Common.dll</HintPath>
+ <HintPath>D:/Work/Unity Data/Git-Repo/Modified-Bendy-Game/Bendy Game/Assets/Plugins/UnityPurchasing/Bin/Purchasing.Common.dll</HintPath>
  </Reference>
  <Reference Include="Stores">
- <HintPath>D:/Work/Unity Data/Unity Games/Horror Games/Bendy/Bendy Game/Assets/Plugins/UnityPurchasing/Bin/Stores.dll</HintPath>
+ <HintPath>D:/Work/Unity Data/Git-Repo/Modified-Bendy-Game/Bendy Game/Assets/Plugins/UnityPurchasing/Bin/Stores.dll</HintPath>
  </Reference>
  <Reference Include="Apple">
- <HintPath>D:/Work/Unity Data/Unity Games/Horror Games/Bendy/Bendy Game/Assets/Plugins/UnityPurchasing/Bin/Apple/Apple.dll</HintPath>
+ <HintPath>D:/Work/Unity Data/Git-Repo/Modified-Bendy-Game/Bendy Game/Assets/Plugins/UnityPurchasing/Bin/Apple/Apple.dll</HintPath>
  </Reference>
  <Reference Include="FacebookStore">
- <HintPath>D:/Work/Unity Data/Unity Games/Horror Games/Bendy/Bendy Game/Assets/Plugins/UnityPurchasing/Bin/Facebook/FacebookStore.dll</HintPath>
+ <HintPath>D:/Work/Unity Data/Git-Repo/Modified-Bendy-Game/Bendy Game/Assets/Plugins/UnityPurchasing/Bin/Facebook/FacebookStore.dll</HintPath>
  </Reference>
  <Reference Include="Security">
- <HintPath>D:/Work/Unity Data/Unity Games/Horror Games/Bendy/Bendy Game/Assets/Plugins/UnityPurchasing/Bin/Security/live/Security.dll</HintPath>
+ <HintPath>D:/Work/Unity Data/Git-Repo/Modified-Bendy-Game/Bendy Game/Assets/Plugins/UnityPurchasing/Bin/Security/live/Security.dll</HintPath>
  </Reference>
  <Reference Include="Tizen">
- <HintPath>D:/Work/Unity Data/Unity Games/Horror Games/Bendy/Bendy Game/Assets/Plugins/UnityPurchasing/Bin/Tizen/Tizen.dll</HintPath>
+ <HintPath>D:/Work/Unity Data/Git-Repo/Modified-Bendy-Game/Bendy Game/Assets/Plugins/UnityPurchasing/Bin/Tizen/Tizen.dll</HintPath>
  </Reference>
  <Reference Include="winrt">
- <HintPath>D:/Work/Unity Data/Unity Games/Horror Games/Bendy/Bendy Game/Assets/Plugins/UnityPurchasing/winrt/winrt.dll</HintPath>
+ <HintPath>D:/Work/Unity Data/Git-Repo/Modified-Bendy-Game/Bendy Game/Assets/Plugins/UnityPurchasing/winrt/winrt.dll</HintPath>
  </Reference>
  <Reference Include="DOTween">
- <HintPath>D:/Work/Unity Data/Unity Games/Horror Games/Bendy/Bendy Game/Assets/SWS/Extensions/DOTween/DOTween.dll</HintPath>
+ <HintPath>D:/Work/Unity Data/Git-Repo/Modified-Bendy-Game/Bendy Game/Assets/SWS/Extensions/DOTween/DOTween.dll</HintPath>
  </Reference>
  <Reference Include="DOTween43">
- <HintPath>D:/Work/Unity Data/Unity Games/Horror Games/Bendy/Bendy Game/Assets/SWS/Extensions/DOTween/DOTween43.dll</HintPath>
+ <HintPath>D:/Work/Unity Data/Git-Repo/Modified-Bendy-Game/Bendy Game/Assets/SWS/Extensions/DOTween/DOTween43.dll</HintPath>
  </Reference>
  <Reference Include="DOTween46">
- <HintPath>D:/Work/Unity Data/Unity Games/Horror Games/Bendy/Bendy Game/Assets/SWS/Extensions/DOTween/DOTween46.dll</HintPath>
+ <HintPath>D:/Work/Unity Data/Git-Repo/Modified-Bendy-Game/Bendy Game/Assets/SWS/Extensions/DOTween/DOTween46.dll</HintPath>
  </Reference>
  <Reference Include="DOTween50">
- <HintPath>D:/Work/Unity Data/Unity Games/Horror Games/Bendy/Bendy Game/Assets/SWS/Extensions/DOTween/DOTween50.dll</HintPath>
+ <HintPath>D:/Work/Unity Data/Git-Repo/Modified-Bendy-Game/Bendy Game/Assets/SWS/Extensions/DOTween/DOTween50.dll</HintPath>
  </Reference>
  <Reference Include="DOTweenEditor">
- <HintPath>D:/Work/Unity Data/Unity Games/Horror Games/Bendy/Bendy Game/Assets/SWS/Extensions/DOTween/Editor/DOTweenEditor.dll</HintPath>
+ <HintPath>D:/Work/Unity Data/Git-Repo/Modified-Bendy-Game/Bendy Game/Assets/SWS/Extensions/DOTween/Editor/DOTweenEditor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Advertisements">
  <HintPath>C:/ProgramData/Unity/cache/packages/packages.unity.com/com.unity.ads@2.0.3/Editor/UnityEditor.Advertisements.dll</HintPath>

@@ -1,10 +1,11 @@
 Android
 PlayerPath?
-D:/Work/Unity Data/Final APKs/The Scary Bendy Neighbor Simulator - Bendy Game 3D v1.0.2.apk
+D:/Work/Unity Data/Final APKs/Scary Bendy Neighbours From Hell Hunted House 2019 v1.0.0.apk
 SceneListBegin?
 Assets/Scenes/MainMenu.unity
 Assets/Scenes/Level1.unity
 SceneListEnd?
+a47deb8ed22aaa412c0e8dd2d92a4a14 Assembly-CSharp.dll:.CFX_LightFlicker
 532ee8af8ad6f649d36af695384e95d0 Assembly-CSharp-firstpass.dll:ControlFreak2.Demos.SwipeSlasher.SwipeSlasherChara
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp-firstpass.dll:ControlFreak2Editor.Inspectors.TouchSplitterInspector
 21ed60345164b4f8ec471c979a11f2f0 Assembly-CSharp.dll:.GamePlay_Script_Handler
@@ -12,6 +13,7 @@ a422c4490576e524c47d72e92c189500 Assembly-CSharp.dll:.DamageZone
 05524b8f659e7bfe5756d1335fec24ba Stores.dll:UnityEngine.Purchasing.AsyncWebUtil
 05524b8f659e7bfe5756d1335fec24ba Stores.dll:UnityEngine.Purchasing.MoolahStoreImpl
 05524b8f659e7bfe5756d1335fec24ba Stores.dll:UnityEngine.Purchasing.Extension.UnityUtil
+e1048fb987503d69b1e1255ccf72e1f2 Assembly-CSharp.dll:.CFX_Demo_Translate
 7ba1e84ad3d2d8813486668e75f842ce Assembly-CSharp-firstpass.dll:UnityStandardAssets.Effects.ExtinguishableParticleSystem
 c26dc637a510b281fc759d7dfcfe8fc7 Assembly-CSharp.dll:.MovingElevator
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.Timeline.dll:UnityEngine.Timeline.ActivationPlayableAsset
@@ -157,6 +159,7 @@ df374c01140c2d578bf70cbd60073d1d UnityEngine.Timeline.dll:UnityEngine.Timeline.T
 43e0bb756dbd788930987fd144a47b68 Assembly-CSharp-firstpass.dll:UnityEngine.Purchasing.IAPListener
 492f6308468ef7da278e627cc85aa38c Assembly-CSharp-firstpass.dll:ControlFreak2.DebugUtils.GamepadHardwareTester
 3a8fa7a863c03e450979fb7014b614e2 Assembly-CSharp.dll:.CamAndWeapAnims
+3f7b40b9dec82f7b3bef20c7dbdfcb1c Assembly-CSharp.dll:.CFX_AutoStopLoopedEffect
 fc1e0f4d8439d9928083474691511a13 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkAnimator
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.Networking.dll:UnityEngine.Networking.NetworkBehaviour
 60b2bb652410a5867a5ab9a01cd38461 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkDiscovery
@@ -232,10 +235,12 @@ e4eff68bfbfa6bd0e64c95e92dd14b85 Assembly-CSharp.dll:SWS.navMove
 a2efb0db652b8114d1ae7dd9a600d626 Assembly-CSharp-firstpass.dll:UnityStandardAssets.CrossPlatformInput.InputAxisScrollbar
 fe76270bd84ec3b6f2f6f92c69cf69da Assembly-CSharp-firstpass.dll:UnityStandardAssets.CrossPlatformInput.AxisTouchButton
 a0299b98aa7138a7901443e0b8bb5af7 Assembly-CSharp.dll:.DisplaySecondaryObjectiveDialoug
+cf034d56006fab83d80d3d2c8d2b4a6b Assembly-CSharp.dll:.CFX_Demo_RandomDir
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.FoliageRustle
 37bc92d8fc299db213a3af6d5a73d064 Assembly-CSharp.dll:.bl_IconItem
 88e745da281bc889e248b64cf4d72a54 Assembly-CSharp.dll:UnityStandardAssets.ImageEffects.SunShafts
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp-firstpass.dll:ControlFreak2Editor.Inspectors.TouchControlPanelInspector
+ab33636d6ab69a357f553ed12c5ccacc Assembly-CSharp.dll:.CFX_Demo_RotateCamera
 a7d3c6c6948d99dd4116e659ddcf5ac4 Assembly-CSharp-firstpass.dll:UnityStandardAssets.CrossPlatformInput.ButtonHandler
 f970a8c3c6381b998fe99262480eb961 Assembly-CSharp-firstpass.dll:ControlFreak2.TouchControlPanelUnityUiAddOn
 a01ce49d76af6b5877f7f431ee0380ce Assembly-CSharp-firstpass.dll:ControlFreak2.InputRig
@@ -248,6 +253,7 @@ cfa93710d56cd4da2a3b2eec27bc1139 Assembly-CSharp.dll:UnityStandardAssets.Water.P
 cac5093fb1baf037bd671ecbc6727828 Assembly-CSharp.dll:UnityStandardAssets.ImageEffects.ScreenOverlay
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.Advertisements.dll:UnityEngine.Advertisements.CallbackExecutor
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.Advertisements.dll:UnityEngine.Advertisements.Editor.Placeholder
+8604de0f5beed95d79a3f24818973b37 Assembly-CSharp.dll:.CFX_AutoDestructShuriken
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:UnityStandardAssets.Water.Displace
 ecee8b4911c6b7b33ee6cf873c35bf28 Assembly-CSharp.dll:.ExplosiveObject
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp-firstpass.dll:UnityStandardAssets.CrossPlatformInput.MobileControlRig
@@ -255,6 +261,7 @@ ecee8b4911c6b7b33ee6cf873c35bf28 Assembly-CSharp.dll:.ExplosiveObject
 c828286ffd3ca1416359f6eae6baf0f5 Assembly-CSharp-firstpass.dll:ControlFreak2.TouchSteeringWheelSpriteAnimator
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.ObjectResetter
 e97ff9540a49b92b779792c195839d33 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Effects.AfterburnerPhysicsForce
+31cf01fa5cdbe5572a95e3db8487bdc6 Assembly-CSharp.dll:.CFX_LightIntensityFade
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp-firstpass.dll:ControlFreak2.InitialPosPlaceholder
 0824f50b69b43d8f1c6ce98fbaea0e02 Assembly-CSharp.dll:SWS.splineMove
 d1f201dffb439ad5be8d36b122e6224d Assembly-CSharp.dll:.AmmoText
@@ -292,6 +299,7 @@ e9bdabf9265d758d56f01bb188916fa8 UnityEngine.Networking.dll:UnityEngine.Networki
 c2a49a19bed7afb5585cf25337de7632 Assembly-CSharp.dll:.InstantDeathCollider
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.LeanColliderDamage
 e06c88fc4a0ecec5cd8c0463ca04f9d2 Assembly-CSharp-firstpass.dll:ControlFreak2.TouchMarkerGUI
+cff2f7383b123d207597108afcecde7e Assembly-CSharp.dll:.CFX_AutoRotate
 21984f001d5a114ee9fbf62810ee8eb7 Assembly-CSharp.dll:UnityStandardAssets.Water.SpecularLighting
 2dbfd4f7836c7f6a79e17be5f4bf7969 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.WaypointCircuit
 01a51fb8da1baf70a912c555bfbf3a1e Assembly-CSharp.dll:.PlayerCharacter
@@ -299,6 +307,7 @@ a68d4b25dc7d711f40484475dba9573c Assembly-CSharp.dll:.Ironsights
 2c62b9ae79b8b54dd7b55fa7d311452b Assembly-CSharp.dll:UnityStandardAssets.Water.Water
 c8db4b285cfd0a3a53f58f781b4d758c Assembly-CSharp.dll:.HealthText
 3d46ebf28becf192684c88c64093232a Assembly-CSharp.dll:.WarmupText
+4536fed390d6638cfec4387322259968 Assembly-CSharp.dll:.CFX_Demo_New
 c33f55aa6137c87eb03d4a79d37416f8 Assembly-CSharp-firstpass.dll:ControlFreak2.DynamicRegion
 74c0972aebf48da9d3058d76e2ace9c1 Assembly-CSharp.dll:.NPCRegistry
 ffe8557e41ad3c30efd0065b503a295a Assembly-CSharp.dll:.bl_MMCompass
@@ -380,6 +389,7 @@ f4b175ffc1eeca85d2783436b4c764a7 Assembly-CSharp-firstpass.dll:UnityStandardAsse
 2685c85b324ecabaaba3899c8edd8cf6 Assembly-CSharp-firstpass.dll:ControlFreak2.Demos.Characters.DualStickShooterCharaMotor
 1ba90086b8b4e519efb4718b4e9f3dd7 Assembly-CSharp.dll:.HealthPickup
 6746ad828d32ad6e5c07a63950fd4be6 Assembly-CSharp.dll:UnityStandardAssets.Water.WaterTile
+6fb7e1be716963a0c08757e17b011a9d Assembly-CSharp.dll:.CFX_Demo_RandomDirectionTranslate
 2df7a73d1de5885bf75c22926f56013c Assembly-CSharp-firstpass.dll:ControlFreak2.Demos.Cameras.SimpleFollowCam
 e865fafa5916ceaab6032284177c9e86 Assembly-CSharp-firstpass.dll:ControlFreak2.TouchSteeringWheel
 6e3a5a8381f7235a749b5c06b90b2f8c Assembly-CSharp.dll:.WaypointGroup

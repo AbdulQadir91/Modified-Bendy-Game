@@ -8870,6 +8870,11 @@ Prefab:
       propertyPath: env
       value: 
       objectReference: {fileID: 1735891438}
+    - target: {fileID: 114727170511577804, guid: 03bb5e2e8f078804cbf4146307f754e0,
+        type: 2}
+      propertyPath: clearData
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 03bb5e2e8f078804cbf4146307f754e0, type: 2}
   m_IsPrefabParent: 0
@@ -9176,6 +9181,16 @@ Prefab:
     - target: {fileID: 165196, guid: f7bf14cfc4b9f3e4eb1de4f67acca9bb, type: 2}
       propertyPath: m_Name
       value: All Menus Screens
+      objectReference: {fileID: 0}
+    - target: {fileID: 224460968926355202, guid: f7bf14cfc4b9f3e4eb1de4f67acca9bb,
+        type: 2}
+      propertyPath: m_SizeDelta.x
+      value: 1024
+      objectReference: {fileID: 0}
+    - target: {fileID: 224460968926355202, guid: f7bf14cfc4b9f3e4eb1de4f67acca9bb,
+        type: 2}
+      propertyPath: m_SizeDelta.y
+      value: 1024
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: f7bf14cfc4b9f3e4eb1de4f67acca9bb, type: 2}

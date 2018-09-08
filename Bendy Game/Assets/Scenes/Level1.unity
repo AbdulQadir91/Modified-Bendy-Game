@@ -295,308 +295,6 @@ GameObject:
   m_PrefabParentObject: {fileID: 1136822438344832, guid: 7838abba857e3144db3787d6534d4f9a,
     type: 2}
   m_PrefabInternal: {fileID: 1462315210}
---- !u!1001 &962677227
-Prefab:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 431768, guid: 9d9826aada95b9f4292ff8e492642fa1, type: 2}
-      propertyPath: m_LocalPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 431768, guid: 9d9826aada95b9f4292ff8e492642fa1, type: 2}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 431768, guid: 9d9826aada95b9f4292ff8e492642fa1, type: 2}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 431768, guid: 9d9826aada95b9f4292ff8e492642fa1, type: 2}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 431768, guid: 9d9826aada95b9f4292ff8e492642fa1, type: 2}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 431768, guid: 9d9826aada95b9f4292ff8e492642fa1, type: 2}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 431768, guid: 9d9826aada95b9f4292ff8e492642fa1, type: 2}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 431768, guid: 9d9826aada95b9f4292ff8e492642fa1, type: 2}
-      propertyPath: m_RootOrder
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 114881985998424646, guid: 9d9826aada95b9f4292ff8e492642fa1,
-        type: 2}
-      propertyPath: onTriggerEnter.m_PersistentCalls.m_Calls.Array.data[0].m_Target
-      value: 
-      objectReference: {fileID: 1438627076}
-    - target: {fileID: 114881985998424646, guid: 9d9826aada95b9f4292ff8e492642fa1,
-        type: 2}
-      propertyPath: onTriggerStay.m_PersistentCalls.m_Calls.Array.data[0].m_Target
-      value: 
-      objectReference: {fileID: 1438627076}
-    - target: {fileID: 114881985998424646, guid: 9d9826aada95b9f4292ff8e492642fa1,
-        type: 2}
-      propertyPath: onTriggerExit.m_PersistentCalls.m_Calls.Array.data[0].m_Target
-      value: 
-      objectReference: {fileID: 1438627076}
-    - target: {fileID: 114179586676292190, guid: 9d9826aada95b9f4292ff8e492642fa1,
-        type: 2}
-      propertyPath: onTriggerEnter.m_PersistentCalls.m_Calls.Array.data[0].m_Target
-      value: 
-      objectReference: {fileID: 935475797}
-    - target: {fileID: 114179586676292190, guid: 9d9826aada95b9f4292ff8e492642fa1,
-        type: 2}
-      propertyPath: onTriggerStay.m_PersistentCalls.m_Calls.Array.data[0].m_Target
-      value: 
-      objectReference: {fileID: 935475797}
-    - target: {fileID: 114179586676292190, guid: 9d9826aada95b9f4292ff8e492642fa1,
-        type: 2}
-      propertyPath: onTriggerExit.m_PersistentCalls.m_Calls.Array.data[0].m_Target
-      value: 
-      objectReference: {fileID: 935475797}
-    - target: {fileID: 114379009394588000, guid: 9d9826aada95b9f4292ff8e492642fa1,
-        type: 2}
-      propertyPath: onTriggerEnter.m_PersistentCalls.m_Calls.Array.data[0].m_Target
-      value: 
-      objectReference: {fileID: 935475797}
-    - target: {fileID: 114379009394588000, guid: 9d9826aada95b9f4292ff8e492642fa1,
-        type: 2}
-      propertyPath: onTriggerStay.m_PersistentCalls.m_Calls.Array.data[0].m_Target
-      value: 
-      objectReference: {fileID: 935475797}
-    - target: {fileID: 114379009394588000, guid: 9d9826aada95b9f4292ff8e492642fa1,
-        type: 2}
-      propertyPath: onTriggerExit.m_PersistentCalls.m_Calls.Array.data[0].m_Target
-      value: 
-      objectReference: {fileID: 935475797}
-    - target: {fileID: 114633091955737352, guid: 9d9826aada95b9f4292ff8e492642fa1,
-        type: 2}
-      propertyPath: onTriggerEnter.m_PersistentCalls.m_Calls.Array.data[0].m_Target
-      value: 
-      objectReference: {fileID: 935475797}
-    - target: {fileID: 114633091955737352, guid: 9d9826aada95b9f4292ff8e492642fa1,
-        type: 2}
-      propertyPath: onTriggerStay.m_PersistentCalls.m_Calls.Array.data[0].m_Target
-      value: 
-      objectReference: {fileID: 935475797}
-    - target: {fileID: 114633091955737352, guid: 9d9826aada95b9f4292ff8e492642fa1,
-        type: 2}
-      propertyPath: onTriggerExit.m_PersistentCalls.m_Calls.Array.data[0].m_Target
-      value: 
-      objectReference: {fileID: 935475797}
-    - target: {fileID: 114001057358582192, guid: 9d9826aada95b9f4292ff8e492642fa1,
-        type: 2}
-      propertyPath: onPickUp.m_PersistentCalls.m_Calls.Array.data[1].m_Target
-      value: 
-      objectReference: {fileID: 973830478}
-    - target: {fileID: 114089355962518230, guid: 9d9826aada95b9f4292ff8e492642fa1,
-        type: 2}
-      propertyPath: fpsPlayer
-      value: 
-      objectReference: {fileID: 1695368309}
-    - target: {fileID: 114089355962518230, guid: 9d9826aada95b9f4292ff8e492642fa1,
-        type: 2}
-      propertyPath: flashLight
-      value: 
-      objectReference: {fileID: 1570302816}
-    - target: {fileID: 114089355962518230, guid: 9d9826aada95b9f4292ff8e492642fa1,
-        type: 2}
-      propertyPath: fpsWeapons
-      value: 
-      objectReference: {fileID: 127776972}
-    - target: {fileID: 114212027305434976, guid: 9d9826aada95b9f4292ff8e492642fa1,
-        type: 2}
-      propertyPath: onTriggerEnter.m_PersistentCalls.m_Calls.Array.data[0].m_Target
-      value: 
-      objectReference: {fileID: 1212893318}
-    - target: {fileID: 114212027305434976, guid: 9d9826aada95b9f4292ff8e492642fa1,
-        type: 2}
-      propertyPath: onTriggerStay.m_PersistentCalls.m_Calls.Array.data[0].m_Target
-      value: 
-      objectReference: {fileID: 1212893318}
-    - target: {fileID: 114212027305434976, guid: 9d9826aada95b9f4292ff8e492642fa1,
-        type: 2}
-      propertyPath: onTriggerExit.m_PersistentCalls.m_Calls.Array.data[0].m_Target
-      value: 
-      objectReference: {fileID: 1212893318}
-    - target: {fileID: 114304081843974740, guid: 9d9826aada95b9f4292ff8e492642fa1,
-        type: 2}
-      propertyPath: onTriggerEnter.m_PersistentCalls.m_Calls.Array.data[0].m_Target
-      value: 
-      objectReference: {fileID: 19892025}
-    - target: {fileID: 114304081843974740, guid: 9d9826aada95b9f4292ff8e492642fa1,
-        type: 2}
-      propertyPath: onTriggerEnter.m_PersistentCalls.m_Calls.Array.data[1].m_Target
-      value: 
-      objectReference: {fileID: 2041863710}
-    - target: {fileID: 114332027371321984, guid: 9d9826aada95b9f4292ff8e492642fa1,
-        type: 2}
-      propertyPath: onTriggerEnter.m_PersistentCalls.m_Calls.Array.data[0].m_Target
-      value: 
-      objectReference: {fileID: 1696606260}
-    - target: {fileID: 114332027371321984, guid: 9d9826aada95b9f4292ff8e492642fa1,
-        type: 2}
-      propertyPath: onTriggerEnter.m_PersistentCalls.m_Calls.Array.data[1].m_Target
-      value: 
-      objectReference: {fileID: 1696606262}
-    - target: {fileID: 114332027371321984, guid: 9d9826aada95b9f4292ff8e492642fa1,
-        type: 2}
-      propertyPath: onTriggerEnter.m_PersistentCalls.m_Calls.Array.data[4].m_Target
-      value: 
-      objectReference: {fileID: 19892025}
-    - target: {fileID: 114369385069656414, guid: 9d9826aada95b9f4292ff8e492642fa1,
-        type: 2}
-      propertyPath: fpsPlayer
-      value: 
-      objectReference: {fileID: 1695368309}
-    - target: {fileID: 114369385069656414, guid: 9d9826aada95b9f4292ff8e492642fa1,
-        type: 2}
-      propertyPath: flashLight
-      value: 
-      objectReference: {fileID: 1570302816}
-    - target: {fileID: 114369385069656414, guid: 9d9826aada95b9f4292ff8e492642fa1,
-        type: 2}
-      propertyPath: fpsWeapons
-      value: 
-      objectReference: {fileID: 127776972}
-    - target: {fileID: 114409408883276674, guid: 9d9826aada95b9f4292ff8e492642fa1,
-        type: 2}
-      propertyPath: fpsPlayer
-      value: 
-      objectReference: {fileID: 1695368309}
-    - target: {fileID: 114409408883276674, guid: 9d9826aada95b9f4292ff8e492642fa1,
-        type: 2}
-      propertyPath: flashLight
-      value: 
-      objectReference: {fileID: 1570302816}
-    - target: {fileID: 114409408883276674, guid: 9d9826aada95b9f4292ff8e492642fa1,
-        type: 2}
-      propertyPath: fpsWeapons
-      value: 
-      objectReference: {fileID: 127776972}
-    - target: {fileID: 114416239796330126, guid: 9d9826aada95b9f4292ff8e492642fa1,
-        type: 2}
-      propertyPath: onTriggerEnter.m_PersistentCalls.m_Calls.Array.data[0].m_Target
-      value: 
-      objectReference: {fileID: 19892025}
-    - target: {fileID: 114416239796330126, guid: 9d9826aada95b9f4292ff8e492642fa1,
-        type: 2}
-      propertyPath: onTriggerEnter.m_PersistentCalls.m_Calls.Array.data[1].m_Target
-      value: 
-      objectReference: {fileID: 2041863710}
-    - target: {fileID: 114456104444136610, guid: 9d9826aada95b9f4292ff8e492642fa1,
-        type: 2}
-      propertyPath: onTriggerEnter.m_PersistentCalls.m_Calls.Array.data[0].m_Target
-      value: 
-      objectReference: {fileID: 19892025}
-    - target: {fileID: 114456104444136610, guid: 9d9826aada95b9f4292ff8e492642fa1,
-        type: 2}
-      propertyPath: onTriggerEnter.m_PersistentCalls.m_Calls.Array.data[1].m_Target
-      value: 
-      objectReference: {fileID: 2041863710}
-    - target: {fileID: 114499215745118708, guid: 9d9826aada95b9f4292ff8e492642fa1,
-        type: 2}
-      propertyPath: onTriggerEnter.m_PersistentCalls.m_Calls.Array.data[0].m_Target
-      value: 
-      objectReference: {fileID: 19892025}
-    - target: {fileID: 114499215745118708, guid: 9d9826aada95b9f4292ff8e492642fa1,
-        type: 2}
-      propertyPath: onTriggerEnter.m_PersistentCalls.m_Calls.Array.data[1].m_Target
-      value: 
-      objectReference: {fileID: 2041863710}
-    - target: {fileID: 114540629628287144, guid: 9d9826aada95b9f4292ff8e492642fa1,
-        type: 2}
-      propertyPath: onTriggerEnter.m_PersistentCalls.m_Calls.Array.data[0].m_Target
-      value: 
-      objectReference: {fileID: 19892025}
-    - target: {fileID: 114540629628287144, guid: 9d9826aada95b9f4292ff8e492642fa1,
-        type: 2}
-      propertyPath: onTriggerEnter.m_PersistentCalls.m_Calls.Array.data[1].m_Target
-      value: 
-      objectReference: {fileID: 2041863710}
-    - target: {fileID: 114587593624532782, guid: 9d9826aada95b9f4292ff8e492642fa1,
-        type: 2}
-      propertyPath: fpsPlayer
-      value: 
-      objectReference: {fileID: 1695368309}
-    - target: {fileID: 114587593624532782, guid: 9d9826aada95b9f4292ff8e492642fa1,
-        type: 2}
-      propertyPath: flashLight
-      value: 
-      objectReference: {fileID: 1570302816}
-    - target: {fileID: 114587593624532782, guid: 9d9826aada95b9f4292ff8e492642fa1,
-        type: 2}
-      propertyPath: fpsWeapons
-      value: 
-      objectReference: {fileID: 127776972}
-    - target: {fileID: 114821527433207490, guid: 9d9826aada95b9f4292ff8e492642fa1,
-        type: 2}
-      propertyPath: onTriggerEnter.m_PersistentCalls.m_Calls.Array.data[0].m_Target
-      value: 
-      objectReference: {fileID: 19892025}
-    - target: {fileID: 114843777042568224, guid: 9d9826aada95b9f4292ff8e492642fa1,
-        type: 2}
-      propertyPath: onTriggerEnter.m_PersistentCalls.m_Calls.Array.data[0].m_Target
-      value: 
-      objectReference: {fileID: 1630105458}
-    - target: {fileID: 114843777042568224, guid: 9d9826aada95b9f4292ff8e492642fa1,
-        type: 2}
-      propertyPath: onTriggerStay.m_PersistentCalls.m_Calls.Array.data[0].m_Target
-      value: 
-      objectReference: {fileID: 1630105458}
-    - target: {fileID: 114843777042568224, guid: 9d9826aada95b9f4292ff8e492642fa1,
-        type: 2}
-      propertyPath: onTriggerExit.m_PersistentCalls.m_Calls.Array.data[0].m_Target
-      value: 
-      objectReference: {fileID: 1630105458}
-    - target: {fileID: 114852329931805430, guid: 9d9826aada95b9f4292ff8e492642fa1,
-        type: 2}
-      propertyPath: onTriggerEnter.m_PersistentCalls.m_Calls.Array.data[0].m_Target
-      value: 
-      objectReference: {fileID: 19892025}
-    - target: {fileID: 114644171750199836, guid: 9d9826aada95b9f4292ff8e492642fa1,
-        type: 2}
-      propertyPath: onTriggerEnter.m_PersistentCalls.m_Calls.Array.data[0].m_Target
-      value: 
-      objectReference: {fileID: 1670163345}
-    - target: {fileID: 114644171750199836, guid: 9d9826aada95b9f4292ff8e492642fa1,
-        type: 2}
-      propertyPath: onTriggerStay.m_PersistentCalls.m_Calls.Array.data[0].m_Target
-      value: 
-      objectReference: {fileID: 1670163345}
-    - target: {fileID: 114644171750199836, guid: 9d9826aada95b9f4292ff8e492642fa1,
-        type: 2}
-      propertyPath: onTriggerExit.m_PersistentCalls.m_Calls.Array.data[0].m_Target
-      value: 
-      objectReference: {fileID: 1670163345}
-    - target: {fileID: 114955412138809452, guid: 9d9826aada95b9f4292ff8e492642fa1,
-        type: 2}
-      propertyPath: fpsPlayer
-      value: 
-      objectReference: {fileID: 1695368309}
-    - target: {fileID: 114955412138809452, guid: 9d9826aada95b9f4292ff8e492642fa1,
-        type: 2}
-      propertyPath: flashLight
-      value: 
-      objectReference: {fileID: 1570302816}
-    - target: {fileID: 114955412138809452, guid: 9d9826aada95b9f4292ff8e492642fa1,
-        type: 2}
-      propertyPath: fpsWeapons
-      value: 
-      objectReference: {fileID: 127776972}
-    m_RemovedComponents: []
-  m_ParentPrefab: {fileID: 100100000, guid: 9d9826aada95b9f4292ff8e492642fa1, type: 2}
-  m_IsPrefabParent: 0
 --- !u!1 &973830478 stripped
 GameObject:
   m_PrefabParentObject: {fileID: 1768506299128790, guid: 67c05f5cb453c9347906443747c8304a,
@@ -683,7 +381,7 @@ GameObject:
 --- !u!1 &1251801895 stripped
 GameObject:
   m_PrefabParentObject: {fileID: 138956, guid: 9d9826aada95b9f4292ff8e492642fa1, type: 2}
-  m_PrefabInternal: {fileID: 962677227}
+  m_PrefabInternal: {fileID: 1875011038}
 --- !u!114 &1364585060 stripped
 MonoBehaviour:
   m_PrefabParentObject: {fileID: 114229413482311792, guid: 7838abba857e3144db3787d6534d4f9a,
@@ -740,7 +438,7 @@ Prefab:
     - target: {fileID: 224523513183604286, guid: 7838abba857e3144db3787d6534d4f9a,
         type: 2}
       propertyPath: m_RootOrder
-      value: 2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 224523513183604286, guid: 7838abba857e3144db3787d6534d4f9a,
         type: 2}
@@ -936,17 +634,6 @@ Transform:
   m_PrefabParentObject: {fileID: 4433677380784560, guid: 67c05f5cb453c9347906443747c8304a,
     type: 2}
   m_PrefabInternal: {fileID: 1934428338}
---- !u!1 &1696606260 stripped
-GameObject:
-  m_PrefabParentObject: {fileID: 1819819646514374, guid: 67c05f5cb453c9347906443747c8304a,
-    type: 2}
-  m_PrefabInternal: {fileID: 1934428338}
---- !u!114 &1696606262 stripped
-MonoBehaviour:
-  m_PrefabParentObject: {fileID: 114645987937906070, guid: 67c05f5cb453c9347906443747c8304a,
-    type: 2}
-  m_PrefabInternal: {fileID: 1934428338}
-  m_Script: {fileID: 11500000, guid: d0abd598d747d674aa55486ead2ba2be, type: 3}
 --- !u!1 &1745726993 stripped
 GameObject:
   m_PrefabParentObject: {fileID: 1537619043826004, guid: 7838abba857e3144db3787d6534d4f9a,
@@ -1274,6 +961,293 @@ Prefab:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 72d6ff343dfcdaf4e92b2a1ebc5d9114, type: 2}
+  m_IsPrefabParent: 0
+--- !u!1001 &1875011038
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 431768, guid: 9d9826aada95b9f4292ff8e492642fa1, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 431768, guid: 9d9826aada95b9f4292ff8e492642fa1, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 431768, guid: 9d9826aada95b9f4292ff8e492642fa1, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 431768, guid: 9d9826aada95b9f4292ff8e492642fa1, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 431768, guid: 9d9826aada95b9f4292ff8e492642fa1, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 431768, guid: 9d9826aada95b9f4292ff8e492642fa1, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 431768, guid: 9d9826aada95b9f4292ff8e492642fa1, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 431768, guid: 9d9826aada95b9f4292ff8e492642fa1, type: 2}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 114416239796330126, guid: 9d9826aada95b9f4292ff8e492642fa1,
+        type: 2}
+      propertyPath: onTriggerEnter.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 19892025}
+    - target: {fileID: 114416239796330126, guid: 9d9826aada95b9f4292ff8e492642fa1,
+        type: 2}
+      propertyPath: onTriggerEnter.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 2041863710}
+    - target: {fileID: 114212027305434976, guid: 9d9826aada95b9f4292ff8e492642fa1,
+        type: 2}
+      propertyPath: onTriggerEnter.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1212893318}
+    - target: {fileID: 114212027305434976, guid: 9d9826aada95b9f4292ff8e492642fa1,
+        type: 2}
+      propertyPath: onTriggerStay.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1212893318}
+    - target: {fileID: 114212027305434976, guid: 9d9826aada95b9f4292ff8e492642fa1,
+        type: 2}
+      propertyPath: onTriggerExit.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1212893318}
+    - target: {fileID: 114089355962518230, guid: 9d9826aada95b9f4292ff8e492642fa1,
+        type: 2}
+      propertyPath: fpsPlayer
+      value: 
+      objectReference: {fileID: 1695368309}
+    - target: {fileID: 114089355962518230, guid: 9d9826aada95b9f4292ff8e492642fa1,
+        type: 2}
+      propertyPath: flashLight
+      value: 
+      objectReference: {fileID: 1570302816}
+    - target: {fileID: 114089355962518230, guid: 9d9826aada95b9f4292ff8e492642fa1,
+        type: 2}
+      propertyPath: fpsWeapons
+      value: 
+      objectReference: {fileID: 127776972}
+    - target: {fileID: 114881985998424646, guid: 9d9826aada95b9f4292ff8e492642fa1,
+        type: 2}
+      propertyPath: onTriggerEnter.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1438627076}
+    - target: {fileID: 114881985998424646, guid: 9d9826aada95b9f4292ff8e492642fa1,
+        type: 2}
+      propertyPath: onTriggerStay.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1438627076}
+    - target: {fileID: 114881985998424646, guid: 9d9826aada95b9f4292ff8e492642fa1,
+        type: 2}
+      propertyPath: onTriggerExit.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1438627076}
+    - target: {fileID: 114456104444136610, guid: 9d9826aada95b9f4292ff8e492642fa1,
+        type: 2}
+      propertyPath: onTriggerEnter.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 19892025}
+    - target: {fileID: 114456104444136610, guid: 9d9826aada95b9f4292ff8e492642fa1,
+        type: 2}
+      propertyPath: onTriggerEnter.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 2041863710}
+    - target: {fileID: 114644171750199836, guid: 9d9826aada95b9f4292ff8e492642fa1,
+        type: 2}
+      propertyPath: onTriggerEnter.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1670163345}
+    - target: {fileID: 114644171750199836, guid: 9d9826aada95b9f4292ff8e492642fa1,
+        type: 2}
+      propertyPath: onTriggerStay.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1670163345}
+    - target: {fileID: 114644171750199836, guid: 9d9826aada95b9f4292ff8e492642fa1,
+        type: 2}
+      propertyPath: onTriggerExit.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1670163345}
+    - target: {fileID: 114304081843974740, guid: 9d9826aada95b9f4292ff8e492642fa1,
+        type: 2}
+      propertyPath: onTriggerEnter.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 19892025}
+    - target: {fileID: 114304081843974740, guid: 9d9826aada95b9f4292ff8e492642fa1,
+        type: 2}
+      propertyPath: onTriggerEnter.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 2041863710}
+    - target: {fileID: 114955412138809452, guid: 9d9826aada95b9f4292ff8e492642fa1,
+        type: 2}
+      propertyPath: fpsPlayer
+      value: 
+      objectReference: {fileID: 1695368309}
+    - target: {fileID: 114955412138809452, guid: 9d9826aada95b9f4292ff8e492642fa1,
+        type: 2}
+      propertyPath: flashLight
+      value: 
+      objectReference: {fileID: 1570302816}
+    - target: {fileID: 114955412138809452, guid: 9d9826aada95b9f4292ff8e492642fa1,
+        type: 2}
+      propertyPath: fpsWeapons
+      value: 
+      objectReference: {fileID: 127776972}
+    - target: {fileID: 114179586676292190, guid: 9d9826aada95b9f4292ff8e492642fa1,
+        type: 2}
+      propertyPath: onTriggerEnter.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 935475797}
+    - target: {fileID: 114179586676292190, guid: 9d9826aada95b9f4292ff8e492642fa1,
+        type: 2}
+      propertyPath: onTriggerStay.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 935475797}
+    - target: {fileID: 114179586676292190, guid: 9d9826aada95b9f4292ff8e492642fa1,
+        type: 2}
+      propertyPath: onTriggerExit.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 935475797}
+    - target: {fileID: 114499215745118708, guid: 9d9826aada95b9f4292ff8e492642fa1,
+        type: 2}
+      propertyPath: onTriggerEnter.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 19892025}
+    - target: {fileID: 114499215745118708, guid: 9d9826aada95b9f4292ff8e492642fa1,
+        type: 2}
+      propertyPath: onTriggerEnter.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 2041863710}
+    - target: {fileID: 114633091955737352, guid: 9d9826aada95b9f4292ff8e492642fa1,
+        type: 2}
+      propertyPath: onTriggerEnter.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 935475797}
+    - target: {fileID: 114633091955737352, guid: 9d9826aada95b9f4292ff8e492642fa1,
+        type: 2}
+      propertyPath: onTriggerStay.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 935475797}
+    - target: {fileID: 114633091955737352, guid: 9d9826aada95b9f4292ff8e492642fa1,
+        type: 2}
+      propertyPath: onTriggerExit.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 935475797}
+    - target: {fileID: 114821527433207490, guid: 9d9826aada95b9f4292ff8e492642fa1,
+        type: 2}
+      propertyPath: onTriggerEnter.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 19892025}
+    - target: {fileID: 114369385069656414, guid: 9d9826aada95b9f4292ff8e492642fa1,
+        type: 2}
+      propertyPath: fpsPlayer
+      value: 
+      objectReference: {fileID: 1695368309}
+    - target: {fileID: 114369385069656414, guid: 9d9826aada95b9f4292ff8e492642fa1,
+        type: 2}
+      propertyPath: flashLight
+      value: 
+      objectReference: {fileID: 1570302816}
+    - target: {fileID: 114369385069656414, guid: 9d9826aada95b9f4292ff8e492642fa1,
+        type: 2}
+      propertyPath: fpsWeapons
+      value: 
+      objectReference: {fileID: 127776972}
+    - target: {fileID: 114540629628287144, guid: 9d9826aada95b9f4292ff8e492642fa1,
+        type: 2}
+      propertyPath: onTriggerEnter.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 19892025}
+    - target: {fileID: 114540629628287144, guid: 9d9826aada95b9f4292ff8e492642fa1,
+        type: 2}
+      propertyPath: onTriggerEnter.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 2041863710}
+    - target: {fileID: 114587593624532782, guid: 9d9826aada95b9f4292ff8e492642fa1,
+        type: 2}
+      propertyPath: fpsPlayer
+      value: 
+      objectReference: {fileID: 1695368309}
+    - target: {fileID: 114587593624532782, guid: 9d9826aada95b9f4292ff8e492642fa1,
+        type: 2}
+      propertyPath: flashLight
+      value: 
+      objectReference: {fileID: 1570302816}
+    - target: {fileID: 114587593624532782, guid: 9d9826aada95b9f4292ff8e492642fa1,
+        type: 2}
+      propertyPath: fpsWeapons
+      value: 
+      objectReference: {fileID: 127776972}
+    - target: {fileID: 114852329931805430, guid: 9d9826aada95b9f4292ff8e492642fa1,
+        type: 2}
+      propertyPath: onTriggerEnter.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 19892025}
+    - target: {fileID: 114843777042568224, guid: 9d9826aada95b9f4292ff8e492642fa1,
+        type: 2}
+      propertyPath: onTriggerEnter.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1630105458}
+    - target: {fileID: 114843777042568224, guid: 9d9826aada95b9f4292ff8e492642fa1,
+        type: 2}
+      propertyPath: onTriggerStay.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1630105458}
+    - target: {fileID: 114843777042568224, guid: 9d9826aada95b9f4292ff8e492642fa1,
+        type: 2}
+      propertyPath: onTriggerExit.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1630105458}
+    - target: {fileID: 114409408883276674, guid: 9d9826aada95b9f4292ff8e492642fa1,
+        type: 2}
+      propertyPath: fpsPlayer
+      value: 
+      objectReference: {fileID: 1695368309}
+    - target: {fileID: 114409408883276674, guid: 9d9826aada95b9f4292ff8e492642fa1,
+        type: 2}
+      propertyPath: flashLight
+      value: 
+      objectReference: {fileID: 1570302816}
+    - target: {fileID: 114409408883276674, guid: 9d9826aada95b9f4292ff8e492642fa1,
+        type: 2}
+      propertyPath: fpsWeapons
+      value: 
+      objectReference: {fileID: 127776972}
+    - target: {fileID: 114379009394588000, guid: 9d9826aada95b9f4292ff8e492642fa1,
+        type: 2}
+      propertyPath: onTriggerEnter.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 935475797}
+    - target: {fileID: 114379009394588000, guid: 9d9826aada95b9f4292ff8e492642fa1,
+        type: 2}
+      propertyPath: onTriggerStay.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 935475797}
+    - target: {fileID: 114379009394588000, guid: 9d9826aada95b9f4292ff8e492642fa1,
+        type: 2}
+      propertyPath: onTriggerExit.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 935475797}
+    - target: {fileID: 114001057358582192, guid: 9d9826aada95b9f4292ff8e492642fa1,
+        type: 2}
+      propertyPath: onPickUp.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 973830478}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 9d9826aada95b9f4292ff8e492642fa1, type: 2}
   m_IsPrefabParent: 0
 --- !u!1 &1917165609 stripped
 GameObject:

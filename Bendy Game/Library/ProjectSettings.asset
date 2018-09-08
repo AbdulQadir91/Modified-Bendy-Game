@@ -11,8 +11,8 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: Crossmind Studios
-  productName: The Scary Bendy Neighbor Simulator - Bendy Game 3D
+  companyName: ThunderBolt Studios
+  productName: Scary Bendy Neighbours From Hell Hunted House 2019
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -126,7 +126,7 @@ PlayerSettings:
     16:10: 1
     16:9: 1
     Others: 1
-  bundleVersion: 1.0.2
+  bundleVersion: 1.0.0
   preloadedAssets: []
   metroInputSource: 0
   wsaTransparentSwapchain: 0
@@ -158,14 +158,14 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    Android: com.crossmind.scary.bendy.neighbor.simulator.bendygame
+    Android: com.thunderbolt.scary.bendy.neighbours.from.hell.hunted.house
     Standalone: unity.DefaultCompany.RFPSP123
     Tizen: com.Company.ProductName
     iOS: com.Company.ProductName
     tvOS: com.Company.ProductName
   buildNumber:
     iOS: 0
-  AndroidBundleVersionCode: 4
+  AndroidBundleVersionCode: 1
   AndroidMinSdkVersion: 16
   AndroidTargetSdkVersion: 0
   AndroidPreferredInstallLocation: 0
@@ -248,8 +248,8 @@ PlayerSettings:
   AndroidTargetDevice: 3
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
-  AndroidKeystoreName: D:/Work/Unity Data/Games Assets/Signing Keys/Crossmind_Studios.keystore
-  AndroidKeyaliasName: crossmind_studios
+  AndroidKeystoreName: D:/Work/Unity Data/Games Assets/Signing Keys/thunderboltStudios.keystore
+  AndroidKeyaliasName: thunderbolt
   AndroidTVCompatibility: 1
   AndroidIsGame: 1
   AndroidEnableTango: 0
@@ -265,7 +265,7 @@ PlayerSettings:
   - m_BuildTarget: 
     m_Icons:
     - serializedVersion: 2
-      m_Icon: {fileID: 2800000, guid: d75c74c4ed9e4d14381fe3652348342a, type: 3}
+      m_Icon: {fileID: 2800000, guid: 811e8333a1be46145828649a6be4b3e0, type: 3}
       m_Width: 128
       m_Height: 128
       m_Kind: 0
@@ -689,9 +689,9 @@ PlayerSettings:
     UNet: 1
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-  cloudProjectId: da33e252-3eb5-49bc-b33d-d6649a5be742
-  projectName: Bendy Game
-  organizationId: crossmind_studios
+  cloudProjectId: e248b854-97a4-49c5-b962-9bfee4be746b
+  projectName: Scary Bendy Neighbours From Hell Hunted House 2019
+  organizationId: thunderbolt-studios
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 1
   disableOldInputManagerSupport: 0
